@@ -1,0 +1,121 @@
+@media (min-width: 500px) {
+  header {
+    width: 500px;
+    height: 100px;
+  }
+}
+
+body {
+  width: 1000px;
+  height: 1400px;
+  color: #091540;
+  background-color: #a5ffd6;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  width: 1000px;
+  height: 200px;
+  margin: 0;
+  padding: 0;
+}
+
+header img {
+  border: 2.5mm solid #091540;
+  border-radius: 20px 20px;
+}
+
+h1 {
+  text-align: center;
+  text-shadow: 3px 1.5px black;
+  margin-top: 200px;
+}
+
+main {
+  width: 1000px;
+  height: 600px;
+}
+
+main h3 {
+  width: 300px;
+  height: 30px;
+  background-color: #3893d0;
+  border: 4mm ridge #1b2cc1;
+  border-radius: 10px 10px;
+  margin-top: -120px;
+  margin-left: 240px;
+  padding-top: 15px;
+}
+
+main form {
+  width: 800px;
+  height: 350px;
+  border: 4mm ridge #1b2cc1;
+  border-radius: 10px 10px;
+  background-color: #3893d0;
+  margin-top: 250px;
+  margin-left: 270px;
+  padding: 35px;
+}
+
+main form #text {
+  border-color: blue;
+  border-radius: 15px 15px;
+  height: 30px;
+}
+
+main form #email {
+  border-color: blue;
+  border-radius: 15px 15px;
+  height: 30px;
+}
+
+main form #titremessage {
+  border-color: blue;
+  border-radius: 15px 15px;
+  height: 30px;
+}
+
+main form textarea {
+  border-color: blue;
+  border-radius: 15px 15px;
+}
+
+main form button {
+  width: 250px;
+  height: 50px;
+  border-color: blue;
+  border-radius: 15px 15px;
+  font-size: 24px;
+  font-weight: bolder;
+}
+
+footer {
+  width: 1304px;
+  height: 250px;
+  background-color: #091540;
+}
+
+footer #map {
+  width: 400px;
+  height: 150px;
+  color: #a5ffd6;
+  border: 2mm solid #a5ffd6;
+  margin-left: 150px;
+  padding-top: 20px;
+}
+
+footer #coordonnees {
+  width: 400px;
+  height: 150px;
+  color: #a5ffd6;
+  border: 2mm solid #a5ffd6;
+  margin-left: 700px;
+  margin-top: -145px;
+}
+
+footer #coordonnees p {
+  margin: 15px;
+}
+/*# sourceMappingURL=formulaire.css.map */

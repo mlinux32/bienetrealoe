@@ -1,0 +1,60 @@
+body {
+  width: 1000px;
+  height: 1400px;
+  color: #091540;
+  background-color: #a5ffd6;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  width: 1000px;
+  height: 200px;
+  margin: 0;
+  padding: 0;
+}
+
+header img {
+  border: 2.5mm solid #091540;
+  border-radius: 20px 20px;
+}
+
+h1 {
+  text-align: center;
+  text-shadow: 3px 1.5px black;
+  margin-top: 200px;
+}
+
+main {
+  width: 1000px;
+  height: 1000px;
+}
+
+footer {
+  width: 1304px;
+  height: 250px;
+  background-color: #091540;
+}
+
+footer #map {
+  width: 400px;
+  height: 150px;
+  color: #a5ffd6;
+  border: 2mm solid #a5ffd6;
+  margin-left: 150px;
+  padding-top: 20px;
+}
+
+footer #coordonnees {
+  width: 400px;
+  height: 150px;
+  color: #a5ffd6;
+  border: 2mm solid #a5ffd6;
+  margin-left: 700px;
+  margin-top: -145px;
+}
+
+footer #coordonnees p {
+  margin: 15px;
+}
+/*# sourceMappingURL=index.css.map */
